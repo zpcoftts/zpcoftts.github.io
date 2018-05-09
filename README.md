@@ -18,11 +18,9 @@
   * Nuance
   * Google
   * IBM
-  * 东芝
-  * 微软
-  * 亚马逊
-  * 苹果
-  * 其他
+  * Microsoft
+  * Toshiba
+  * at all
 ### 语音合成前端
 #### TN概述
 #### 分词概述
