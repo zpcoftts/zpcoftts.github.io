@@ -19,8 +19,8 @@
   * Google
   * IBM
   * Microsoft
-  * Toshiba
-  * at all
+  * Toshiba
+  * at all
 ### 语音合成前端
 #### TN概述
 #### 分词概述
